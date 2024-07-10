@@ -29,5 +29,5 @@ I actively contribute to open source projects and enjoy collaborating with other
 I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me. Let's connect and build amazing software together!
 
 - 📫 Email: [clinton.edward.cochrane@gmail.com](mailto:clinton.edward.cochrane@gmail.com)
-- 💼 LinkedIn: [Clinton Cochrane](https://www.linkedin.com/in/clint-cochrane/)
+- 💼 LinkedIn: [Clinton Cochrane](https://www.linkedin.com/in/clinton-cochrane/)
 
