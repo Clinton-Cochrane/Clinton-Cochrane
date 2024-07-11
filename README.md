@@ -12,9 +12,9 @@ I'm a passionate software developer with expertise in multiple programming langu
 
 ## Projects
 
-- 🛒 [![Shopping App](https://img.shields.io/badge/Shop-WithMe-red)](https://github.com/coch110149/shoppingApp) Cross platform application that aids users with creation of grocery lists and meal planning. 
-- 🚴 [![Cyclists companion](https://img.shields.io/badge/Bicycle-Buddy-orange)](https://github.com/coch110149/BikeCompanion) Tracks distance a cyclist rides to alert of upcoming maintenance for the bike. 
-- 🌩️ [![Weather LED](https://img.shields.io/badge/Weather-Station-yellow)](https://github.com/coch110149/BlyncLightWeatherStation) LED controller to see the weather at a glance. 
+- 🛒 [![Shopping App](https://img.shields.io/badge/Shop-WithMe-red)](https://github.com/clinton-cochrane/shoppingApp) Cross platform application that aids users with creation of grocery lists and meal planning. 
+- 🚴 [![Cyclists companion](https://img.shields.io/badge/Bicycle-Buddy-orange)](https://github.com/clinton-cochrane/BikeCompanion) Tracks distance a cyclist rides to alert of upcoming maintenance for the bike. 
+- 🌩️ [![Weather LED](https://img.shields.io/badge/Weather-Station-yellow)](https://github.com/clinton-cochrane/BlyncLightWeatherStation) LED controller to see the weather at a glance. 
 
 ## Contributions
 
@@ -22,7 +22,7 @@ I actively contribute to open source projects and enjoy collaborating with other
 
 - [![Dark_Reader](https://img.shields.io/badge/dark-reader-brightgreen)](https://github.com/darkreader/darkreader): Make updates to dark settings on sites that need fixing. 
 - [![GitHub Repo](https://img.shields.io/badge/Puppeteer-blue)](https://github.com/puppeteer/puppeteer): Mostly documentation. 
-- [![GitHub Repo](https://img.shields.io/badge/Mr-Jingles-violet)](https://github.com/coch110149/MrJinglesChromeNotificationExt): Designed a darker themed one. 🔔
+- [![GitHub Repo](https://img.shields.io/badge/Mr-Jingles-violet)](https://github.com/clinton-cochrane/MrJinglesChromeNotificationExt): Designed a darker themed one. 🔔
 
 ## Get in Touch
 
