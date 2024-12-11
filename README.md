@@ -12,7 +12,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 
 ## Projects
 
-- 🛒 [![Shopping App](https://img.shields.io/badge/Shop-WithMe-red)](https://github.com/clinton-cochrane/shoppingApp) Cross platform application that aids users with creation of grocery lists and meal planning. 
+- 🛒 [![Shopping App](https://img.shields.io/badge/Shop-WithMe-red)](https://github.com/clinton-cochrane/mobile-grocery) Cross platform application that aids users with creation of grocery lists and meal planning. 
 - 🚴 [![Cyclists companion](https://img.shields.io/badge/Bicycle-Buddy-orange)](https://github.com/clinton-cochrane/BikeCompanion) Tracks distance a cyclist rides to alert of upcoming maintenance for the bike. 
 - 🌩️ [![Weather LED](https://img.shields.io/badge/Weather-Station-yellow)](https://github.com/clinton-cochrane/BlyncLightWeatherStation) LED controller to see the weather at a glance. 
 
