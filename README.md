@@ -15,7 +15,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 - 🛒 [![Shopping App](https://img.shields.io/badge/Shop-WithMe-red)](https://github.com/clinton-cochrane/mobile-grocery) Cross platform application that aids users with creation of grocery lists and meal planning. 
 - 🚴 [![Cyclists companion](https://img.shields.io/badge/Bicycle-Buddy-orange)](https://github.com/clinton-cochrane/BikeCompanion) Tracks distance a cyclist rides to alert of upcoming maintenance for the bike. 
 - 🌩️ [![Weather LED](https://img.shields.io/badge/Weather-Station-yellow)](https://github.com/clinton-cochrane/BlyncLightWeatherStation) LED controller to see the weather at a glance. 
-- ☕ [![Roeast66Coffee](https://img.shields.io/badge/Roast-66-Coffee-Black)](https://github.com/clinton-cochrane/Roast66Coffee) Local Coffee shop app 
+- ☕ [![Roeast66Coffee](https://img.shields.io/badge/Roast66-Coffee-green)](https://github.com/clinton-cochrane/Roast66Coffee) Local Coffee shop app 
 
 
 ## Contributions
